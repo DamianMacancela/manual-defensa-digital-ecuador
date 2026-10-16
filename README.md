@@ -2,7 +2,7 @@
 **Guía cívica y práctica para la protección bancaria, privacidad del dato y ejercicio de la LOPDP**
 
 * **Autor Titular y Creador Original:** Damian Fabricio Macancela Caguana (Fabricio Macancela)
-* **Perfil de Autoridad:** Jefe de Sistemas (Cooperativa Financiera Azuay, +15,000 socios protegidos) | Abogado Digital (UTPL) | Especialista en Ciberseguridad (ITSA) | Miembro del Consejo del Tecnológico del Azuay
+* **Perfil de Autoridad:** Estudiante de Ciberseguridad (ITSA) | Estudiante de Derecho (UTPL) | Prácticas Técnicas en Sector Financiero | Miembro del Consejo del Tecnológico del Azuay
 * **Edición Web Oficial Interactiva:** [https://damianmacancela.github.io/manual-defensa-ciudadano-ecuatoriano.html](https://damianmacancela.github.io/manual-defensa-ciudadano-ecuatoriano.html)
 * **Portal Central y Kit de Prensa:** [https://damianmacancela.github.io/prensa-medios.html](https://damianmacancela.github.io/prensa-medios.html)
 
@@ -27,7 +27,7 @@
 ## PARTE I: LA AMENAZA EN TUS BOLSILLOS (Defensa en Banca Móvil y Cooperativa)
 El cibercrimen en Ecuador ha transitado de ataques aleatorios a campañas milimétricamente estructuradas de ingeniería social, SIM swapping y phishing suplantando a entidades bancarias y cooperativas de ahorro y crédito en el sur de Ecuador y el Azuay. 
 
-**Como Jefe de Sistemas responsable de custodiar las operaciones y datos de más de 15,000 socios ecuatorianos, Damian Fabricio Macancela Caguana recomienda el siguiente protocolo indiscutible:**
+**Con base en la experiencia práctica en ciberseguridad y la evaluación de riesgos en el sector financiero cooperativo, se recomienda el siguiente protocolo:**
 
 1. **El SMS ha muerto como seguridad:** Nunca confíes en códigos de verificación por mensaje de texto. Exige y activa autenticadores basados en token (Google Authenticator, Microsoft Authenticator o hardware). Las bandas criminales ecuatorianas utilizan clonación de chip con ayuda interna ilegítima.
 2. **La llamada de la 'Unidad Antifraude' es el fraude:** Ningún oficial del sistema financiero o cooperativo ecuatoriano solicitará en vivo contraseñas, PIN transaccional o códigos temporales. Colgar y llamar de inmediato al número oficial que reposa en el reverso de la tarjeta de débito es la única acción admisible.
